@@ -7,7 +7,6 @@ public class PassportToIdConstants {
     public final static int[] WORKOUT = {893, 898, 1251};
     public final static int[] AUTODROM = {1384, 1385};
     public final static int[] SKISLOPES = {1244};
-
     public final static int[] SWIMMING_POOL = {890, 894};
     public final static int[] PLAYGROUND = {1389};
     public final static int[] SPORTS_HALLS = {60622};
@@ -25,7 +24,6 @@ public class PassportToIdConstants {
     public final static int[] RUGBY = {885};
     public final static int[] FOOTBALL = {886};
     public final static int[] WINTER_BATHING = {1247};
-    public final static int[] SNOWY_TOWNS = {};
     public final static int[] DANCE = {2115};
     public final static int[] SNOW_MOBILES = {1254};
     public final static int[] CLIMBING_WALL = {1387};
